@@ -1,0 +1,26 @@
+asgiref==3.7.2
+cachetools==5.3.3
+chardet==5.2.0
+colorama==0.4.6
+distlib==0.3.8
+Django==4.2.11
+django-codemirror2==0.2
+django-cors-headers==4.3.1
+django-cte==1.1.4
+django-js-asset==2.2.0
+django-mptt==0.16.0
+django-rest-auth==0.9.5
+django-river @ git+https://github.com/mohamedAbdElhameed/django-river@2f3d054fb801accdd44a065131347ad51fbebb12
+djangorestframework==3.14.0
+filelock==3.13.1
+mock==5.1.0
+packaging==24.0
+platformdirs==4.2.0
+pluggy==1.4.0
+pyproject-api==1.6.1
+pytz==2024.1
+river-admin @ git+https://github.com/mohamedAbdElhameed/river-admin@26e87d58424c954acf186a3de60a8b3df628dfb7
+six==1.16.0
+sqlparse==0.4.4
+tox==4.14.1
+virtualenv==20.25.1
